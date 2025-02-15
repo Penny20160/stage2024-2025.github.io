@@ -23,7 +23,7 @@ const data = [
                 "entries": [{
                     "text": "Vandaag stond ik met Lila en Ruud Geers bij een gallerie in Den Haag. Lila en ik hebben het plafond gerepareerd terwijl Ruud het plafond in de andere kamer schilderde. Daarna hebben Lila en ik die kamer opgeruimd. En na de lunch die andere kamer."
                 }]
-            }
+            }]
     
     },
     {

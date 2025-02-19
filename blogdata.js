@@ -52,5 +52,14 @@ const data = [
                 }]
             }
         ]
-    }
+    },
+    {"label":"week 3",
+    "dagen":[
+        {"datum":"maandag 17-02-2025",
+         "entries":[{"text":"Ik stond vandaag met Jasmijn en Lila op de werkplaats. Anneke was er niet, zij was ziek. We hebben alle luiken opgeschuurd en gerepareerd en 7 daarvan geschilderd"}]
+        },
+        {"datum":"dinsdag 18-02-2025",
+         "entries":[{"text":"Ik begon vandaag met Anneke en Lila op de werkplaats. Rond het tien-uurtje kwam Timo terug op de werkplaats en nam mij mee naar de klus in Den Haag die we eigenlijk vrijdag af zouden maken. Daar aangekomen hebben we eerst het plafond geschilderd met een groote roller(die best zwaar was). Daarna hebben we die plek opgeruimd. We moesten wel op onze sokken de spullen naar beneden dragen, want de schoonmaakster had net stofgezogen. Na het opruimen gingen we terug naar de werkplaats. Ik dacht dat ik daar nog wat zou gaan doen, want het was pas 3 uur. Niet dus ;ik mocht al naar huis(sorry Lila). Timo heeft me afgezet bij het station waarna ik naar huis ben gegaan"]}
+        
+    ]}
 ];

@@ -66,5 +66,21 @@ const data = [
                     "text": "Ik begon vandaag met Anneke en Lila op de werkplaats. Rond het tien-uurtje kwam Timo terug op de werkplaats en nam mij mee naar de klus in Den Haag die we eigenlijk vrijdag af zouden maken. Daar aangekomen hebben we eerst het plafond geschilderd met een groote roller(die best zwaar was). Daarna hebben we die plek opgeruimd. We moesten wel op onze sokken de spullen naar beneden dragen, want de schoonmaakster had net stofgezogen. Na het opruimen gingen we terug naar de werkplaats. Ik dacht dat ik daar nog wat zou gaan doen, want het was pas 3 uur. Niet dus ;ik mocht al naar huis(sorry Lila). Timo heeft me afgezet bij het station waarna ik naar huis ben gegaan"
                 }]
             },
+        ]},
+    {
+    "label": "week 4",    
+    "dagen": [
+            {
+                "datum": "disndag 25-02-2025",
+                "entries": [{ "text": "Ik heb de afgelopen 2 dagen met Anneke en Lila op de werkplaats aan de luiken gestaan. Op 2 luiken na zijn nu alle luiken afgelakt."
+            }]
+            },
+            {
+                "datum": "woensdag 26-02-2025",
+                "entries":
+                    "text": " Ik heb vandaag gesprek gehad met Ruud en Jos . Wat daar is uitgekomen weet is rot"
+                
+                    }]
+            },
         ]}  
     ];

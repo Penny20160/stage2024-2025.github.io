@@ -81,7 +81,7 @@ const data = [
                     "text": " Ik heb vandaag gesprek gehad met Ruud en Jos. Wat daar is uitgekomen is rot"
                 
                     }]
-            },
+            }]},
     {
     "label": "week 5",    
     "dagen": [
@@ -96,7 +96,8 @@ const data = [
                     "text": " Ik heb de muren donkergroen geschilderd. het besnijden ging bij de tweede muur niet helemaal goed, maar dat werk ik maandag wel weg. ook heb ik de laatste twee plinten gegrond."
                 
                     }]
-            },
+            }]
+    },
     {
     "label": "week 6",    
     "dagen": [

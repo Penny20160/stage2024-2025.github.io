@@ -1,4 +1,4 @@
-const data[ {
+const data [ {
     "label": "week 5",    
     "dagen": [
             {

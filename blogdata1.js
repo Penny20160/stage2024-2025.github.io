@@ -34,6 +34,7 @@ const data =[ {
             {
                 "label":"week 7",
                 "dagen":[{
+                    "datum":"maandag 17 maart tot woensdag 19 maart",
                 "entries":[
                     {
                      "text":"deze week heb ik gewerkt aan het uittekenen van de dom. Het is uiteindelijk niet zo heel goed gegaan want de proporties kloppen niet helemaal. Dit ga ik volgende week verbeteren.  " 
@@ -42,6 +43,7 @@ const data =[ {
             {
                 "label":"week 8",
                 "dagen":[{
+                    "datum":"maandag 24 maart tot woensdag 26 maart",
                 "entries":[
                     {
                         "text":"Bij de dom was het helemaal fout gegaan. Daardoor kon ik op een gegeven moment alles niet meer zo goed hebben. Daarom ging ik op dinsdag aan de kleurenstaat werken. Dat ging me wel goed af. Op woensdag ben ik uiteindelijk op het bijwerken gezet van koffievlekken."
@@ -52,6 +54,7 @@ const data =[ {
             {
                 "label":"week 9",
                 "dagen":[{
+                    "datum":"maandag 31 maart tot woensdag 2 april",
                 "entries":[
                     {
                       "text":"maandag was de laatste dag bij een locatie van de Gemeente Utrecht. Ik heb de laatste bijwerkingen van onze ruimten gedaan en de kleuren apart gezet. Dinsdag begonnen we op een nieuwe locatie en dat betekent schoonmaken. Na het schoonmaken op dinsdag begon ik met schuren en daarna hebben we de muren en radiatoren voor het eerst gegrond. Het besnijden hierbij ging best goed." 

@@ -54,7 +54,7 @@ const data =[ {
                 "dagen":[{
                 "entries":[
                     {
-                      "text":"maandag was de laatste dag bij een locatie van de Gemeente Utrecht. Ik heb de laatste bijwerkingen van onze ruimten gedaan en de kleuren apart gezet. Dinsdag begonnen we op een nieuwe locatie en dat betekent schoonmaken. Na het schoonmaken op dinsdag begon ik met schuren en daarna hebben we de muren en radiatoren voor het eerst gegrond. Het besnijden hierbij ging best goed. 
+                      "text":"maandag was de laatste dag bij een locatie van de Gemeente Utrecht. Ik heb de laatste bijwerkingen van onze ruimten gedaan en de kleuren apart gezet. Dinsdag begonnen we op een nieuwe locatie en dat betekent schoonmaken. Na het schoonmaken op dinsdag begon ik met schuren en daarna hebben we de muren en radiatoren voor het eerst gegrond. Het besnijden hierbij ging best goed." 
                     }
                 ]
                 }

@@ -62,6 +62,14 @@ const data =[ {
                 ]
                 }
             ]
-                    }
+                    },
+             {
+                 "label":"week 10",
+                 "dagen":[{
+                     "datum":"maandag 7 april tot woensdag 9 april",
+                     "entries":[{
+                         "text":"maandag begon ik pas s'middags op stage, omdat ik s'ochtends een sollicitatiegesprek had. Ik heb op die dag de resterende plinten geschilderd met een bokkepoot en ronde buskwast. Dit omdat ik geen foouten wilde maken. de vloer was wel een beetje vies geworden, maar dat heb ik woensdag met een glasmesje schoongemaakt. Verder heb ik die dag nog een aantal plinten gedaan en de resterende tape verwijderd. We waren al om tegen half drie klaar, maar dat vond ik niet zo erg. Was wel de weg kwijtgeraakt naar de bushalte."
+                     }]}]
+             }
                 
     ];

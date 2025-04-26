@@ -42,13 +42,13 @@ const data =[ {
                 {
                    "datum":"donderdag 24-04-2025",
                     "entries":[{
-                        "text":"Vandaag heb ik een klusje voor Team Glas in het algemeen gedaan. Ik moest een overzicht maken van alle glasklussen op naam, nummer,acceptatiedatum, bestellingsdatum, leveringsdatum en aanneemsom. Tenminste degenen die ze op papier hadden staan, het zijn er waarschijnlijk meer. Ze kunnen niet zo goed orde houden. Ik ben dus de hele dag bezig geweest met de mails van Willem en Danny doorspitten op de computer van Willem, omdat ik zelf geen toegang tot de server heb. ik heb vrijwel alles gedaan behalve de laatste 4, maar die doe ik morgen. Ik moet vanaf morgen ook de vissen in het aquarium voeren, want Willem is vanaf morgen op vakantie.
+                        "text":"Vandaag heb ik een klusje voor Team Glas in het algemeen gedaan. Ik moest een overzicht maken van alle glasklussen op naam, nummer,acceptatiedatum, bestellingsdatum, leveringsdatum en aanneemsom. Tenminste degenen die ze op papier hadden staan, het zijn er waarschijnlijk meer. Ze kunnen niet zo goed orde houden. Ik ben dus de hele dag bezig geweest met de mails van Willem en Danny doorspitten op de computer van Willem, omdat ik zelf geen toegang tot de server heb. ik heb vrijwel alles gedaan behalve de laatste 4, maar die doe ik morgen. Ik moet vanaf morgen ook de vissen in het aquarium voeren, want Willem is vanaf morgen op vakantie."
                     }]
                  },
                     {
                      "datum":"vrijdag 25-04-2025",
                         "entries":[{
-                         "text":"Vandaag heb ik het grootste deel van dag met Friso opgetrokken. Eerst heb ik natuurlijk het overzicht afgemaakt en de visjes eten gegeven. Daarna ben ik na de pause met Friso meegeweest naar een woonhuis op scheveningen om te melden dat ze daar maandag gingen beginnen. S'middags hebben we de voorbereidingen getroffen voor een bezoek aan het stadhuis van Gouda. Dit betekende het bestek lezen en wat achtergrondinformatie opzoeken. Daarna heb ik een offerte aangepast, zonder uitleg dus ik mocht het zelf uitzoeken. We konden het alleen niet helemaal checken omdat Friso in gesprek was tot 10 minuten voor we gingen stoppen.    
+                         "text":"Vandaag heb ik het grootste deel van dag met Friso opgetrokken. Eerst heb ik natuurlijk het overzicht afgemaakt en de visjes eten gegeven. Daarna ben ik na de pause met Friso meegeweest naar een woonhuis op scheveningen om te melden dat ze daar maandag gingen beginnen. S'middags hebben we de voorbereidingen getroffen voor een bezoek aan het stadhuis van Gouda. Dit betekende het bestek lezen en wat achtergrondinformatie opzoeken. Daarna heb ik een offerte aangepast, zonder uitleg dus ik mocht het zelf uitzoeken. We konden het alleen niet helemaal checken omdat Friso in gesprek was tot 10 minuten voor we gingen stoppen.  "  
                         }]
                      }]
              }]

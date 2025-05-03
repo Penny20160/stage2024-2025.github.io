@@ -51,5 +51,34 @@ const data =[ {
                          "text":"Vandaag heb ik het grootste deel van dag met Friso opgetrokken. Eerst heb ik natuurlijk het overzicht afgemaakt en de visjes eten gegeven. Daarna ben ik na de pause met Friso meegeweest naar een woonhuis op scheveningen om te melden dat ze daar maandag gingen beginnen. S'middags hebben we de voorbereidingen getroffen voor een bezoek aan het stadhuis van Gouda. Dit betekende het bestek lezen en wat achtergrondinformatie opzoeken. Daarna heb ik een offerte aangepast, zonder uitleg dus ik mocht het zelf uitzoeken. We konden het alleen niet helemaal checken omdat Friso in gesprek was tot 10 minuten voor we gingen stoppen.  "  
                         }]
                      }]
-             },{}]
+             },
+             {
+                 "label":"week 13",
+                 "dagen":[{
+                     "datum":"maandag 28-04-2025",
+                     "entries":[{
+                         "text":"Ik was vergeten dat Jos nog twee dagen thuis werkt, dus dat was handig. Ik heb dus Danny een beetje geholpen."
+                     }]
+                 },{
+                     "datum":"dinsdag 29-04-2025",
+                     "entries":[{
+                         "text":"Ik heb een verslag vandaag gemaakt voor Kees en een meetstaat voor Danny. S'middags moest ik voor Patrick uitleggen wat we voor Gouda moesten doen. Dat ging niet zo goed, Ik had het niet helemaal onthouden. Ik heb daarna de kaarten gemarkeerd om te zorgen dat dat niet weer moest gebeuren. "
+                     }]
+                 },{
+                     "datum":"woensdag 30-04-2025",
+                     "entries":[{
+                         "text":"Vandaag ben ik met Kees naar Gouda gegaan. Ik moest in de auto de update opnieuw geven en dat ging een stuk beter dan dinsdag. Het hielp wel dat ik de tekst er nu wel bij had. Daarna heb ik niks meer gedaan tot Jos weer terug kwam. We zijn toen in vergadering gegaan met Patrick. Patrick praatte alleen wat te lang waardoor ik te laat was voor m'n ambulant."
+                     }]
+                 },{
+                     "datum":"donderdag 01-05-2025",
+                     "entries":[{
+                         "text":"Ik heb in een pdf de nummering van de ramen van het gebouw van het ministerie van defensie gedaan. Jos had ze al genummerd op de papieren versie dus het was alleen overtypwerk. Verderrest heb ik niet veel gedaan."
+                     }]
+                 },{
+                     "datum":"vrijdag 02-05-2025",
+                     "entries":[{
+                         "text":"Ik heb vandaag een begin gemaakt voor de opnamestaat. Friso en ik hebben samen ook de offerte na gekeken, en Friso heeft nog wat aangepast. De dingen die aangepast moesten worden waren niet mijn schuld. Verderrest heb ik niet veel gedaan."
+                     }]
+                 }]
+             }]
              

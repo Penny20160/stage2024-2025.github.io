@@ -51,5 +51,5 @@ const data =[ {
                          "text":"Vandaag heb ik het grootste deel van dag met Friso opgetrokken. Eerst heb ik natuurlijk het overzicht afgemaakt en de visjes eten gegeven. Daarna ben ik na de pause met Friso meegeweest naar een woonhuis op scheveningen om te melden dat ze daar maandag gingen beginnen. S'middags hebben we de voorbereidingen getroffen voor een bezoek aan het stadhuis van Gouda. Dit betekende het bestek lezen en wat achtergrondinformatie opzoeken. Daarna heb ik een offerte aangepast, zonder uitleg dus ik mocht het zelf uitzoeken. We konden het alleen niet helemaal checken omdat Friso in gesprek was tot 10 minuten voor we gingen stoppen.  "  
                         }]
                      }]
-             }]
+             },{}]
              

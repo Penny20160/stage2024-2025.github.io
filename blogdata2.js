@@ -80,5 +80,29 @@ const data =[ {
                          "text":"Ik heb vandaag een begin gemaakt voor de opnamestaat. Friso en ik hebben samen ook de offerte na gekeken, en Friso heeft nog wat aangepast. De dingen die aangepast moesten worden waren niet mijn schuld. Verderrest heb ik niet veel gedaan."
                      }]
                  }]
+             },
+             {
+                 "label":"week 14",
+                 "dagen":[{
+                     "datum":"maandag 05-05-2025",
+                     "entries":[{
+                         "text":"We hadden geen vrij op 5 mei boe. Ik heb deze dag de opnamestaat af gemaakt. Verder heb ik een beginnetje gemaakt aan de planning. Dat ging best goed."
+                     }]
+                 },{
+                  "datum":"dinsdag 06-05-2025",
+                     "entries":[{
+                         "text":"Ik ben vandaag verder gegaan met de planning. Jos moest heel snel weg waardoor ik de planning alleen moest maken. Dat ging niet zo goed. Ik had niet alle info. Ik heb daarna de planning opnieuw gemaakt. Daarna ben ik naar het station gebracht. Ik heb ook een gesprek gehad met Patrick. Dat ging met name over hoe ik mijn stage vond en ook een beetje over later. Dat was het een beetje van vandaag."
+                     }]
+                 },{
+                     "datum":"woensdag 07-05-2025",
+                     "entries"[{
+                         "text":"Vandaag heb ik een meetstaat gemaakt voor de gevangenpoort. Ik moest met een liniaal en een schaalmeter de maten uitrekenen. Dat ging volgens mij best goed. Ook ben ik mee geweest naar een schouwing in de Engelse ambassade. Ik hoefde daar zelf niks te doen, ik mocht gewoon rondkijken. We gaan hierna deze uitrekenen. De planning die ik gisteren gemaakt heb is nagekeken is nog niet goed, maar Jos zegt dat het niet erg is, omdat deze planning best ingewikkeld is. Ik ben volgens mij hier niet meer verantwoordelijk voor. Jos zou er naar gaan kijken. "
+                     }]
+                 },{
+                 "datum":"donderdag 08-05-2025",
+                 "entries"[{
+                     "text":"Deze ochtend heb ik eerst aan mijn stageverslag gewerkt terwijl Jos mijn planning aan verbeteren is."
+                 }]
+             }]
              }]
              

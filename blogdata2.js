@@ -91,7 +91,7 @@ const data =[ {
                  },{
                   "datum":"dinsdag 06-05-2025",
                      "entries":[{
-                         "text":"Ik ben vandaag verder gegaan met de planning. Jos moest heel snel weg waardoor ik de planning alleen moest maken. Dat ging niet zo goed. Ik had niet alle info. Ik heb daarna de planning opnieuw gemaakt. Daarna ben ik naar het station gebracht. Ik heb ook een gesprek gehad met Patrick. Dat ging met name over hoe ik mijn stage vond en ook een beetje over later. Dat was het een beetje van vandaag."
+                         "text":"Ik ben vandaag verder gegaan met de planning. Jos moest heel snel weg waardoor ik de planning alleen moest maken. Dat ging niet zo goed. Ik had niet alle info. Ik heb daarna de planning opnieuw gemaakt. Daarna ben ik naar het station gebracht. Ik heb ook een gesprek gehad met Patrick. Dat ging met name over hoe ik mijn stage vond en ook een beetje over later. Hij heeft me ook wat tips gegeven over hoe ik als autist ik me kan bedenken wat ik leuk vindt en wat ik kan. Om heel eerlijk te zijn heb ik eigenlijk nog helemaal geen echte leerdoelen gemaakt omdat ik van mezelf gewoon heel moeilijk vindt wat ik echt wil doen. Daar waren die tips eigenlijk voor. In deze periode leer ik nu allemaal verschillende dingen met name over wie ik ben en wat ik kan. Ik weet niet of dat wel het doel van m'n stage was maar dat is wat het nu een beetje is geworden. De dingen die ik hier nu doe zijn een beetje de basis van het kantoorwerk dat ik misschien later ga doen. Dus ik leer hier eigenlijk wat het inhoudt om hier op kantoor te werken. Ik vindt het tot nu toe best leuk. Dat was het een beetje van vandaag."
                      }]
                  },{
                      "datum":"woensdag 07-05-2025",
@@ -101,7 +101,7 @@ const data =[ {
                  },{
                  "datum":"donderdag 08-05-2025",
                  "entries":[{
-                     "text":"Deze ochtend heb ik eerst aan mijn stageverslag gewerkt terwijl Jos mijn planning aan verbeteren is."
+                     "text":"Deze ochtend heb ik eerst aan mijn stageverslag gewerkt terwijl Jos mijn planning aan het verbeteren is."
                  }]
              }]
              }]

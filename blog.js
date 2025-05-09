@@ -30,6 +30,12 @@ function render_blog(pagina) {
                 content.appendChild(e);
             }
         }
+        if (data[pagina].fotos !== undefined && data[pagina].fotos.length > 0){
+            var gallery = document.createElement("div");
+            gallery.id = "gallery-"+pagina;
+            content.appendChild (gallery);
+            showGallery("gallery-"+pagina,data[pagina].fotos);
+        }
         var e2;
         e2 = document.createElement('a');
         e2.classList.add('page-link');

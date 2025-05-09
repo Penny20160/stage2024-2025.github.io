@@ -103,6 +103,32 @@ const data =[ {
                  "entries":[{
                      "text":"Deze ochtend heb ik eerst aan mijn stageverslag gewerkt terwijl Jos mijn planning aan het verbeteren is."
                  }]
-             }]
+             }],
+            "fotos":[
+                {
+                    "src":"IMG_2522.jpg"
+
+                },
+                {
+                    "src":"IMG_2523.jpg"
+
+                },
+                {
+                    "src":"IMG_2524.jpg"
+
+                },
+                {
+                    "src":"IMG_2532.jpg"
+
+                },
+                {
+                    "src":"IMG_2534.jpg"
+
+                },
+                {
+                    "src":"IMG_2535.jpg"
+
+                }
+            ]
              }]
              

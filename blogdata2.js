@@ -28,25 +28,25 @@ const data =[ {
         }],
     "fotos": [
         {
-            "src": "Image(9).jpg"
+            "src": "Image (9).jpg"
         },
         {
-            "src": "Image(10).jpg"
+            "src": "Image (10).jpg"
         },
         {
-            "src": "Image(11).jpg"
+            "src": "Image (11).jpg"
         },
         {
-            "src": "Image(12).jpg"
+            "src": "Image (12).jpg"
         },
         {
-            "src": "Image(13).jpg"
+            "src": "Image (13).jpg"
         },
         {
-            "src": "Image(14).jpg"
+            "src": "Image (14).jpg"
         },
         {
-            "src": "Image(15).jpg"
+            "src": "Image (15).jpg"
         }]
 
            },
@@ -78,7 +78,7 @@ const data =[ {
                ],
                "fotos": [
                    {
-                       "src": "Image(18).jpg"
+                       "src": "Image (18).jpg"
                    }
                ]
              },
@@ -165,16 +165,16 @@ const data =[ {
 
                 },
                 {
-                    "src":"Image(7).jpg"
+                    "src":"Image (7).jpg"
                 },
                 {
-                    "src":"Image(8).jpg"
+                    "src":"Image (8).jpg"
                 },
                 {
-                    "src":"Image(16).jpg"
+                    "src":"Image (16).jpg"
                 },
                 {
-                    "src":"Image(17).jpg"
+                    "src":"Image (17).jpg"
                 }
             ]
              }]

@@ -47,6 +47,9 @@ const data =[ {
         },
         {
             "src": "Image (15).jpg"
+        },
+        {
+            "src":"IMG_3671.jpeg"
         }]
 
            },

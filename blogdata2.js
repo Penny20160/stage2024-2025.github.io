@@ -180,5 +180,29 @@ const data =[ {
                     "src":"Image (17).jpg"
                 }
             ]
-             }]
+    },
+    {
+        "label": "week 15",
+        "dagen": [{
+            "datum": "maandag 12-05-2025",
+            "entries": [{
+                "text":"Vandaag heb ik de Britse Ambassade uitgetrokken. Ik heb dat gedaan met een schaallineaal en een tekening met de schaalmeter. Dat ging volgens mij best goed. Dat kostte me bijna de hele dag."
+            }]
+        }, {
+            "datum": "dinsdag 13-05-2025",
+            "entries": [{
+                "text":"De planning voor vandaag was dat we zouden beginnen aan de offerte van de gevangenpoort. Dat liep niet helemaal ,want iedereen moest ineens iets op de computer van Jos doen. Dus daar gaan we morgen aan beginnen. De boeiboorden en balkons van de britse ambassade moesten nog ingemeten worden. Dat koste me ongeveer 1,5 uur. De rest van de dag heb ik meegeluisterd met wat er in de kamer gebeurde."
+            }]
+            }, {
+            "datum": "woensdag 14-05-2025",
+            "entries": [{
+                "text":"Vandaag zijn we dan echt begonnen met de offerte voor de gevangenpoort. Ik heb de maten in het programma gevoerd. Tussendoor heb ik mezelf vermaakt met m'n kleurplaat. Ik had een fout gemaakt in het invoeren, maar dat lag niet helemaal aan mij. Ik ga dat morgen aanpassen."
+            }]
+            }, {
+            "datum": "donderdag 15-05-2025",
+            "entries": [{
+                "text":"Vanochtend heb ik eerst de offerte van de gevangenpoort verbeterd. Daarna kwam Willem voor een stagegesprek. Tijdens dat gesprek hebben we m'n voortgang besproken."
+            }]
+            }]
+    }]
              

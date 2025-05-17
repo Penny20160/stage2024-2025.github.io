@@ -201,7 +201,12 @@ const data =[ {
             }, {
             "datum": "donderdag 15-05-2025",
             "entries": [{
-                "text":"Vanochtend heb ik eerst de offerte van de gevangenpoort verbeterd. Daarna kwam Willem voor een stagegesprek. Tijdens dat gesprek hebben we m'n voortgang besproken."
+                "text":"Vanochtend heb ik eerst de offerte van de gevangenpoort verbeterd. Daarna kwam Willem voor een stagegesprek. Tijdens dat gesprek hebben we m'n voortgang besproken. We hebben ook wat dingen besproken die ik kan doen als ik niks heb. Met name de historie van de gebouwen waar we naar toe gaan. Daarna ben ik de lijst van glas gaan updaten een ik heb een V & G plan gemaakt. "
+            }]
+            }, {
+            "datum": "vrijdag 16-05-2025",
+            "entries": [{
+                "text":"Ik heb de offerte afgemaakt en de brief geschreven. Dit heb ik gedaan met een voorbeeld en word. Verder heb ik de nieuwe kleren moeten opvouwen joepi en de administratie van de kleding op dit moment in de ruimte bijgehouden. Daarna heb ik tot ik naar huis ging een bestand van Friso lopen opleuken wat betekent alles in dezelfde stijl uitbouwen."
             }]
             }]
     }]

@@ -209,5 +209,32 @@ const data =[ {
                 "text":"Ik heb de offerte afgemaakt en de brief geschreven. Dit heb ik gedaan met een voorbeeld en word. Verder heb ik de nieuwe kleren moeten opvouwen joepi en de administratie van de kleding op dit moment in de ruimte bijgehouden. Daarna heb ik tot ik naar huis ging een bestand van Friso lopen opleuken wat betekent alles in dezelfde stijl uitbouwen."
             }]
             }]
+    },
+    {
+        "label": "week 16",
+        "dagen": [{
+            "datum": "maandag 19-05-2025",
+            "entries": [{
+                "text":"Vandaag heb ik eerst het glas ingemeten voor glas. Daarna heb ik voor Willem het glas dat we waarschijnlijk niet meer gaan plaatsen uitgeteld en de maten opgeschreven. IK deed dat in eerste instantie zonder handschoenen en dat was een beetje stom. Ik heb dus nu een striem een in m'n hand, dus in het gevolg niet met glazen platen lopen zonder handschoenen. "
+            }]
+        },
+        {
+            "datum": "woensdag 21-05-2025",
+            "entries": [{
+               "text":"Ik heb vandaag de maten ingevoerd in het programma. Dat heeft me het grootste deel van de dag gekost. De planning is dat Jos en ik het eerst morgen gaan nakijken en het daarna naar Patrick te sturen."
+            }]
+            },
+            {
+                "datum": "donderdag 22-05-2025",
+                "entries": [{
+                    "text":"Ik heb vandaag een bestand gemaakt voor de planning en de werkvoorraad gemaakt. Dat ging best goed. Daarna heb ik de kozijnen van het paleis gemerkt."
+                }]
+            },
+            {
+                "datum": "vrijdag 23-05-2025",
+                "entries": [{
+                    "text":"Het bleek dus dat op de tekeningen van de Britse residentie sommige kozijnen dubbel stonden. Daardoor waren sommige kozijnen dubbel gemeten. Hetzelfde gold voor glas. Jos en Ik hebben daarna alle maten nagekeken. Daarna heb ik de meetstaat in excel en in het programma gilde aangepast. Dat koste me de hele dag. Ik weet nu dat ik in het vervolg met de plategrond moet werken, want anders zie je niet dat de kozijnen die op de tekening staan exact dezelfde zijn."
+                }]
+            }]
     }]
              

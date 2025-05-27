@@ -233,8 +233,23 @@ const data =[ {
             {
                 "datum": "vrijdag 23-05-2025",
                 "entries": [{
-                    "text":"Het bleek dus dat op de tekeningen van de Britse residentie sommige kozijnen dubbel stonden. Daardoor waren sommige kozijnen dubbel gemeten. Hetzelfde gold voor glas. Jos en Ik hebben daarna alle maten nagekeken. Daarna heb ik de meetstaat in excel en in het programma gilde aangepast. Dat koste me de hele dag. Ik weet nu dat ik in het vervolg met de plategrond moet werken, want anders zie je niet dat de kozijnen die op de tekening staan exact dezelfde zijn."
+                    "text":"Het bleek dus dat op de tekeningen van de Britse residentie sommige kozijnen dubbel stonden. Daardoor waren sommige kozijnen dubbel gemeten. Hetzelfde gold voor glas. Jos en Ik hebben daarna alle maten nagekeken. Daarna heb ik de meetstaat in excel en in het programma gilde aangepast. De eerste keer dat ik het verbeterde mistte ik de dingen die me wel werd uitgelegd en die ik wist dat ik moest verbeteren. Dat koste me de hele dag. Ik weet nu dat ik in het vervolg met de plategrond moet werken, want anders zie je niet dat de kozijnen die op de tekening staan exact dezelfde zijn."
                 }]
             }]
+    },
+    {
+        "label": "week 17",
+        "dagen": [{
+            "datum": "maandag 26-05-2025",
+            "entries": [{
+                "text": "Ik ben vandaag bezig geweest voor Patrick. Ik moest een bestand maken waar de foto's van paleis van Noordeinde met de kozijnmerken en dan een korte uitleg van wat je op de foto's zag. De foto's waren niet op volgorde in het mapje geplaatst waardoor ik moest gokken welke foto bij welk merk hoort. Dat was me overigens wel verteld, dat ik dat zelf moest uitvogelen. Ik moet dit morgen afmaken."
+            }]
+        },
+            {
+                "datum": "dinsdag 27-05-2025",
+                "entries": [{
+                    "text":"Ik heb eerst de merken van de kozijnen op de tekeningen van paleis noordeinde afgemaakt. Daarna heb ik het bestand met Jos bekeken. Hij heeft toen laten zien wat ik moest verbeteren. En ik miste weer punten... tot twee keer toe. Dit is een leerpunt. Ik moet het vanaf nu minstens tot twee keer toe checken voor ik het opstuur. Dat lijkt me beter om minder van dit soort fouten te maken."
+                }]
+           }]
     }]
              

@@ -250,6 +250,12 @@ const data =[ {
                 "entries": [{
                     "text":"Ik heb eerst de merken van de kozijnen op de tekeningen van paleis noordeinde afgemaakt. Daarna heb ik het bestand met Jos bekeken. Hij heeft toen laten zien wat ik moest verbeteren. En ik miste weer punten... tot twee keer toe. Dit is een leerpunt. Ik moet het vanaf nu minstens tot twee keer toe checken voor ik het opstuur. Dat lijkt me beter om minder van dit soort fouten te maken."
                 }]
-           }]
+            },
+            {
+                "datum": "woensdag 28-05-2025",
+                "entries": [{
+                    "text":"Ik ben vandaag eerst begonnen met mijn meest favoriete klusje... Kleding opvouwen:(. Ik moest daarbij ook weer tellen hoeveel kleren er waren binnen waren gekomen. Dat heb ik maar zo snel mogelijk gedaan. Daarna heb ik een onderhoudsbestand uitgebreid naar 2032 en de prijzen die erin staan geindexeerd. Ik zit nu op dit moment dat ik dit schrijf te wachten tot ik dit bij Patrick kan laten checken. "
+                }]
+            }]
     }]
              

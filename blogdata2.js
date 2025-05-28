@@ -201,7 +201,7 @@ const data =[ {
             }, {
             "datum": "donderdag 15-05-2025",
             "entries": [{
-                "text":"Vanochtend heb ik eerst de offerte van de gevangenpoort verbeterd. Daarna kwam Willem voor een stagegesprek. Tijdens dat gesprek hebben we m'n voortgang besproken. We hebben ook wat dingen besproken die ik kan doen als ik niks heb. Met name de historie van de gebouwen waar we naar toe gaan. Daarna ben ik de lijst van glas gaan updaten een ik heb een V & G plan gemaakt. "
+                "text":"Vanochtend heb ik eerst de offerte van de gevangenpoort verbeterd. Daarna kwam Willem voor een stagegesprek. Tijdens dat gesprek hebben we m'n voortgang besproken.Hieruit kwam het volgende naar voren: Willem vindt het goed dat ik me zelf nuttig wil maken op stage. Wat Willem en Jos ook is opgevallen is dat ik erg negatief/streng voor mezelf ben.  Wat kan ik doen als er geen taken voor mij zijn? Ik kan de bouwhistorie van de gebouwen bestuderen aan de hand van het bouwkunde boek van Jos . Ik kan een soort van schaduwproject opstarten met bijvoorbeeld een oude offerte. Ik kan werken aan mijn stage-opdrachten. Ik kan ook aan m'n persoonlijke creatieve projecten werken. Daarna ben ik de lijst van glas gaan updaten en ik heb een V & G plan gemaakt. "
             }]
             }, {
             "datum": "vrijdag 16-05-2025",

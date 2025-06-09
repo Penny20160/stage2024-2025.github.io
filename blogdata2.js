@@ -257,5 +257,14 @@ const data =[ {
                     "text":"Ik ben vandaag eerst begonnen met mijn meest favoriete klusje... Kleding opvouwen:(. Ik moest daarbij ook weer tellen hoeveel kleren er waren binnen waren gekomen. Dat heb ik maar zo snel mogelijk gedaan. Daarna heb ik een onderhoudsbestand uitgebreid naar 2032 en de prijzen die erin staan geindexeerd. Ik zit nu op dit moment dat ik dit schrijf te wachten tot ik dit bij Patrick kan laten checken. "
                 }]
             }]
+    },
+    {
+        "label": "week 18",
+        "dagen": [{
+            "datum": "maandag 2 juni tot woensdag 5 juni 2025",
+            "entries": [{
+                "text":"De afgelopen 3 dagen heb ik weer eens op de schildervloer gestaan. Het was wel helaas de hele tijd schuren. Verderrest is er niet heel veel bijzonders gebeurd."
+            }]
+        }]
     }]
              

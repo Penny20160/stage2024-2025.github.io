@@ -265,6 +265,21 @@ const data =[ {
             "entries": [{
                 "text":"De afgelopen 3 dagen heb ik weer eens op de schildervloer gestaan. Het was wel helaas de hele tijd schuren. Verderrest is er niet heel veel bijzonders gebeurd."
             }]
+        },
+            {
+                "datum": "donderdag 6 juni en vrijdag 7 juni",
+                "entries": [{
+                    "text":"Ik ben de afgelopen twee dagen wel aan het schilderen geweest. Het ging alleen niet goed."
+                }]
+            }]
+    },
+    {
+        "label": "week 19",
+        "dagen": [{
+            "datum": "dinsdag 10 juni tot vrijdag 13 juni",
+            "entries": [{
+                "text":"Als gevolg van de teveel zakkers op de lampen en mijn onzekerheid daardoor, mag ik nu de achterkanten van een aantal luiken gronden. Dat ging uiteindelijk beter dan de lampen. "
+            }]
         }]
     }]
              

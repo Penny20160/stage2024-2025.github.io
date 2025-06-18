@@ -281,5 +281,36 @@ const data =[ {
                 "text":"Als gevolg van de teveel zakkers op de lampen en mijn onzekerheid daardoor, mag ik nu de achterkanten van een aantal luiken gronden. Dat ging uiteindelijk beter dan de lampen. "
             }]
         }]
-    }]
+    },
+    {
+        "label": "De Laatste week",
+        "dagen": [{
+            "datum": "maandag 16 juni",
+            "entries": [{
+                "text": "Deze ochtend ben ik eerst met Jos en Kees naar het hofje van Nieuwkoop geweest. Daarna heb ik m'n bedrijfsfilmpje opgenomen. De rest van de dag heb ik niet veel gedaan."
+            }]
+        },
+        {
+            "datum": "dinsdag 17 juni",
+            "entries": [{
+                "text":"Vandaag ben ik begonnen met het opruimen van het verfhok. Ik heb de verf op soort gesorteerd. Ik ben daar nog niet helemaal mee klaar. Dit maak ik morgen af."
+            }]
+        },
+        {
+            "datum": "woensdag 18 juni",
+            "entries": [{
+                "text":"Ik heb vanochtend eerst m'n klus afgemaakt. Daarna heb ik Nova eventjes geholpen met het stofvrij maken van de luiken, dezelfde luiken waarvan ik de achterkant heb gegrond. Ik ben daarna begonnen met m'n reflectieverslag."
+            }]
+        }]
+    },
+    {
+        "label": "zelfreflectie",
+        "dagen": [{
+            "datum": "Door Alyssa Sikma",
+            "entries": [{
+                "text":"Het onofficieele doel van deze stage was het uitvinden van wat ik leuk vondt en waar ik goed in was. Dat is redelijk gelukt. Ik ben beter met computers en papierwerk dan in het schilderen. Dat kan je bijvoorbeeld zien aan het feit dat ik vrij snel door had wat ik moest doen.          Verder moet ik echt wel wat minder streng op mezelf zijn. Ik ben er mee bezig, maar het proces is langzaam. Bijvoorbeeld toen ik met de lantaarn heel veel zakkers maakten en ik mezelf het hele weekend uitschold.  De stage was wel wat ik ervan had verwacht, maar ik had wel heel weinig verwachting."
+            }]
+        }]
+    }
+]
              

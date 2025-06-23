@@ -293,17 +293,28 @@ const data =[ {
         {
             "datum": "dinsdag 17 juni",
             "entries": [{
-                "text":"Vandaag ben ik begonnen met het opruimen van het verfhok. Ik heb de verf op soort gesorteerd. Ik ben daar nog niet helemaal mee klaar. Dit maak ik morgen af."
+                "text": "Vandaag ben ik begonnen met het opruimen van het verfhok. Ik heb de verf op soort gesorteerd. Ik ben daar nog niet helemaal mee klaar. Dit maak ik morgen af."
             }]
         },
         {
             "datum": "woensdag 18 juni",
             "entries": [{
-                "text":"Ik heb vanochtend eerst m'n klus afgemaakt. Daarna heb ik Nova eventjes geholpen met het stofvrij maken van de luiken, dezelfde luiken waarvan ik de achterkant heb gegrond. Ik ben daarna begonnen met m'n reflectieverslag."
+                "text": "Ik heb vanochtend eerst m'n klus afgemaakt. Daarna heb ik Nova eventjes geholpen met het stofvrij maken van de luiken, dezelfde luiken waarvan ik de achterkant heb gegrond. Ik ben daarna begonnen met m'n reflectieverslag."
             }]
-        }]
-    },
-    {
+        },
+        {
+            "datum": "donderdag 19 juni",
+            "entries": [{
+                "text": " IK heb vandaag een stel dozen plat gemaakt. Dat was serieus m'n dag :(. "
+            }]
+        },
+        {
+            "datum": "vrijdag 20 juni Laatste dag",
+            "entries": [{
+                "text": "Vandaag heb ik groot deel van de lijst met verfsoorten met kleurcodes aangemaakt. Dat kostte me de hele dag. Ik had ook nog appeltaart meegebracht om uit delen. "
+            }]
+        }]},
+        {
         "label": "zelfreflectie",
         "dagen": [{
             "datum": "Door Alyssa Sikma",
@@ -312,5 +323,6 @@ const data =[ {
             }]
         }]
     }
+    
 ]
              

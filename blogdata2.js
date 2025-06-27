@@ -311,9 +311,26 @@ const data =[ {
         {
             "datum": "vrijdag 20 juni Laatste dag",
             "entries": [{
-                "text": "Vandaag heb ik groot deel van de lijst met verfsoorten met kleurcodes aangemaakt. Dat kostte me de hele dag. Ik had ook nog appeltaart meegebracht om uit delen. "
+                "text": "Vandaag heb ik groot deel van de lijst met verfsoorten met kleurcodes aangemaakt. Dat kostte me de hele dag. Ik had ook nog appeltaart meegebracht om uit delen. Kees had blijkbaar donderdag een opdracht die ik kon doen, maar was vergeten dat ik in de ruimte naast hem zat te niksen:(."
             }]
-        }]},
+            }]
+    },
+    {
+        "label": "resterende Thema's",
+        "dagen": [{
+            "datum": "Bedrijf",
+            "entries": [{
+                "text":"Koek en Reinders is opgericht in 1921. Voor de oorlog groeiden ze al uit tot een van de grootste schildersbedrijven in Nederland. Na de oorlog breidden ze hun portofolio uit met werkzaamheden aan het Stadhuis in Den Haag, de nieuwbouw van de Shell hoofdkantoren in Den Haag en Pernis en kazernecomplexen in heel Nederland. Ze richten zich sinds de tachtiger jaren voornamelijk op het restaureren van Historische panden, maar ze zetten ook glas. De klanten behoren daardoor voornamelijk tot de overheid en musea. De particulieren komen voornamelijk binnen via glas. Wat Koek en Reinders typeert is dat ze korte lijntjes met de klanten houdt. Ik heb tijdens mijn stage nooit meegemaakt dat er meer dan een persoon contact had met de klant. Ze werken nog steeds voornamelijk in Den Haag. Ik heb zelf niet echt iets gemerkt van een specifieke visie, maar dat kan aan mij liggen."
+            }]
+        },
+            {
+            "datum": "Project",
+            "entries": [{
+                 "text":"Het probleem met Project dat ik zie is dat ik in geen van de projecten uiteindelijk een heel grote rol heb gehad. Het dichst bij is het project van de Britse Ambassade en die heb ik redelijk uitvoerig uitgeschreven. De rest staat ook gewoon in m'n blog"
+                }]
+            }]
+        
+    },
         {
         "label": "zelfreflectie",
         "dagen": [{
